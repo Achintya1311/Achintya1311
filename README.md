@@ -11,4 +11,4 @@ Equity research candidate combining data science and finance. BTech (Computer & 
 
 Each repo reports what failed as well as what worked. See the Limitations section of each README.
 
-<sub>Educational research on historical data. Not investment advice. Not a SEBI-registered research analyst.</sub>
+Educational research on historical data. Not investment advice. Not a SEBI-registered research analyst.
